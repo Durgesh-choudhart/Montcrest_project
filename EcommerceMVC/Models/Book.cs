@@ -9,7 +9,7 @@ namespace EcommerceMVC.Models
         public int Id { get; set; }
 
         [Required]
-        [MaxLength(40)]
+        [MaxLength(30)]
         public string? BookName { get; set; }
 
         [Required]
