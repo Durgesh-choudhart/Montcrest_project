@@ -2,7 +2,7 @@
 
 namespace EcommerceMVC.Models
 {
-    [Table("OrderDetail")]
+    [Table("orderDetail")]
     public class OrderDetail
     {
 
