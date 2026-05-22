@@ -23,7 +23,6 @@ namespace EcommerceMVC.Data
 
         public DbSet<Order> Orders { get; set; }
 
-
         public DbSet<OrderStatus> OrderStatuses { get; set; }
 
 
